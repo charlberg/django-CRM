@@ -1,0 +1,17 @@
+commit d33dcd87b4037d2935ca520986436ee1356b7ec4
+Author: charlberg <charles.bergen@gmail.com>
+Date:   Fri Jul 11 17:08:05 2025 +0200
+
+    Final Project
+
+commit 9812effce96a52c66d8dab855ded46ee8a385587
+Author: charlberg <charles.bergen@gmail.com>
+Date:   Fri Jul 11 06:15:10 2025 +0200
+
+    'registration'
+
+commit 51c46f84e3df2a5ad8f57a80cfb016dcdad5ea27
+Author: charlberg <charles.bergen@gmail.com>
+Date:   Thu Jul 10 21:45:33 2025 +0200
+
+    Initial Commit
